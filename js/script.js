@@ -80,7 +80,7 @@ ScrollReveal().reveal('.skill-item', {
 // typed js
 
 const typed = new Typed('.multiple-text', {
-    strings: ['System Administrator', 'RHCSA Certified Engineer', 'Linux Enthusiast','Cloud Engineer','DevOps intern'],
+    strings: ['System Administrator', 'Cloud Engineer' ,'RHCSA Certified Engineer', 'Linux Enthusiast'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
